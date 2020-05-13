@@ -39,7 +39,8 @@
         "weightPounds": "190",
         "weightKilograms": "86.2",
         "dateOfBirthUTC": "1988-03-14",
-        "teams":"Golden State Warriors"
+        "teams":"Golden State Warriors",
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/58419c8da6515b1e0ad75a63.png"
         },
         {
         "firstName": "Draymond",
@@ -79,7 +80,8 @@
         "weightPounds": "185",
         "weightKilograms": "83.9",
         "dateOfBirthUTC": "1993-02-05",
-        "teams": "Golden State Warriors"
+        "teams": "Golden State Warriors",
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/58419c8da6515b1e0ad75a63.png"
         },
         {
         "firstName": "Klay",

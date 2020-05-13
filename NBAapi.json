@@ -3,8 +3,6 @@
         {       
         "firstName": "Dragan",
         "lastName": "Bender",
-        "personId": "1627733",
-        "teamId": "1610612756 1610612756",
         "jersey": "35",
         "pos": "F",
         "heightFeet": "7",
@@ -14,12 +12,11 @@
         "weightKilograms": "102.1",
         "dateOfBirthUTC": "1997-11-17",
         "teams": "Golden State Warriors"
+        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
         },
         {
         "firstName": "Marquese",
         "lastName": "Chriss",
-        "personId": "1627737",
-        "teamId": "1610612756 1610612756",
         "jersey": "0",
         "pos": "F",
         "heightFeet": "6",
@@ -29,12 +26,11 @@
         "weightKilograms": "105.7",
         "dateOfBirthUTC": "1997-07-02",
         "teams":"Golden State Warriors"
+        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
         },
         {
         "firstName": "Stephen",
         "lastName": "Curry",
-        "personId": "201939",
-        "teamId": "1610612744 1610612744",
         "jersey": "30",
         "pos": "G",
         "heightFeet": "6",
@@ -48,8 +44,6 @@
         {
         "firstName": "Draymond",
         "lastName": "Green",
-        "personId": "203110",
-        "teamId": "1610612744 1610612744",
         "jersey": "23",
         "pos": "F",
         "heightFeet": "6",
@@ -59,11 +53,10 @@
         "weightKilograms": "104.3",
         "dateOfBirthUTC": "1990-03-04",
         "teams":"Golden State Warriors"
+        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
         },
         {"firstName": "Kevon",
         "lastName": "Looney",
-        "personId": "1626172",
-        "teamId": "1610612744 1610612744",
         "jersey": "5",
         "pos": "F",
         "heightFeet": "6",
@@ -73,12 +66,11 @@
         "weightKilograms": "99.8",
         "dateOfBirthUTC": "1996-02-06",
         "teams": "Golden State Warriors"
+        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
         },
         {
         "firstName": "Chasson",
         "lastName": "Randle",
-        "personId": "1626184",
-        "teamId": "1610612752 1610612752",
         "jersey": "4",
         "pos": "G",
         "heightFeet": "6",
@@ -92,8 +84,6 @@
         {
         "firstName": "Klay",
         "lastName": "Thompson",
-        "personId": "202691",
-        "teamId": "1610612744 1610612744",
         "jersey": "11",
         "pos": "G",
         "heightFeet": "6",
@@ -103,12 +93,11 @@
         "weightKilograms": "97.5",
         "dateOfBirthUTC": "1990-02-08",
         "teams": "Golden State Warriors"
+        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
         },
         {
         "firstName": "Andrew",
         "lastName": "Wiggins",
-        "personId": "203952",
-        "teamId": "1610612750 1610612750",
         "jersey": "22",
         "pos": "F",
         "heightFeet": "6",
@@ -118,5 +107,6 @@
         "weightKilograms": "90.3",
         "dateOfBirthUTC": "1995-02-23",
         "teams": "Golden State Warriors"
+        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
         }
 ]}

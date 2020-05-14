@@ -3,7 +3,7 @@
         {       
         "firstName": "Dragan",
         "lastName": "Bender",
-        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Capture%20d’écran%202020-05-14%20à%2006.21.34.png",
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Dragan%20Bender.png",
         "jersey": "35",
         "pos": "F",
         "heightFeet": "7",
@@ -26,7 +26,7 @@
         "weightKilograms": "105.7",
         "dateOfBirthUTC": "1997-07-02",
         "teams":"Golden State Warriors",
-        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Marquese%20Chriss.png"
         },
         {
         "firstName": "Stephen",
@@ -40,7 +40,7 @@
         "weightKilograms": "86.2",
         "dateOfBirthUTC": "1988-03-14",
         "teams":"Golden State Warriors",
-        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/58419c8da6515b1e0ad75a63.png"
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png"
         },
         {
         "firstName": "Draymond",
@@ -54,7 +54,7 @@
         "weightKilograms": "104.3",
         "dateOfBirthUTC": "1990-03-04",
         "teams":"Golden State Warriors",
-        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Draymond%20Green.png"
         },
         {"firstName": "Kevon",
         "lastName": "Looney",
@@ -67,7 +67,7 @@
         "weightKilograms": "99.8",
         "dateOfBirthUTC": "1996-02-06",
         "teams": "Golden State Warriors",
-        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Kevon%20Looney.png"
         },
         {
         "firstName": "Chasson",
@@ -81,7 +81,7 @@
         "weightKilograms": "83.9",
         "dateOfBirthUTC": "1993-02-05",
         "teams": "Golden State Warriors",
-        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/58419c8da6515b1e0ad75a63.png"
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Chasson%20Randle.png"
         },
         {
         "firstName": "Klay",
@@ -95,7 +95,7 @@
         "weightKilograms": "97.5",
         "dateOfBirthUTC": "1990-02-08",
         "teams": "Golden State Warriors",
-        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Klay%20Thompson.png"
         },
         {
         "firstName": "Andrew",
@@ -109,6 +109,6 @@
         "weightKilograms": "90.3",
         "dateOfBirthUTC": "1995-02-23",
         "teams": "Golden State Warriors",
-        "image": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Warriors_de_Golden_State_logo_2019.png/260px-Warriors_de_Golden_State_logo_2019.png"
+        "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Andrew%20Wiggins.png"
         }
 ]}

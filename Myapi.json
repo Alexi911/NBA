@@ -1,7 +1,7 @@
 {
   "players": [
         {       
-        "firstName": "Dragan",
+        "gsw_firstName": "Dragan",
         "lastName": "Bender",
         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Dragan%20Bender.png",
         "jersey": "35",

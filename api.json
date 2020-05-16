@@ -9,7 +9,7 @@
         "warriors_pos": "Point Guard",
         "warriors_heightMeters": "1.91",
         "warriors_weightKilograms": "86",
-        "warriors_imaghe": "https://raw.githubusercontent.com/Alexi911/NBA/master/Andrew%20Wiggins.png",
+        "warriors_imaghe": "https://raw.githubusercontent.com/Alexi911/NBA/master/Andrew%20Wiggins.png"
         },
         {
         "warriors_firstName": "Draymond",
@@ -18,7 +18,7 @@
         "warriors_age":"30",
         "warriors_pos": "Power Forward",
         "warriors_heightMeters": "1.98",
-        "warriors_weightKilograms": "104",
+        "warriors_weightKilograms": "104"
         },
         {       
         "warriors_firstName": "Dragan",
@@ -27,7 +27,7 @@
         "warriors_age":"22",
         "warriors_pos": "Small Forward",
         "warriors_heightMeters": "2.13",
-        "warriors_weightKilograms": "113",
+        "warriors_weightKilograms": "113"
         },
         {       
         "warriors_firstName": "Ky",
@@ -36,7 +36,7 @@
         "warriors_age":"22",
         "warriors_pos": "Point Guard",
         "warriors_heightMeters": "1.85",
-        "warriors_weightKilograms": "85",
+        "warriors_weightKilograms": "85"
         },
         {
         "warriors_firstName": "Marquese",
@@ -45,7 +45,7 @@
         "warriors_age":"32",
         "warriors_pos": "Center",
         "warriors_heightMeters": "2.06",
-        "warriors_weightKilograms": "109",
+        "warriors_weightKilograms": "109"
         },
         {
         "warriors_firstName": "Damion",
@@ -54,7 +54,7 @@
         "warriors_age":"27",
         "warriors_pos": "Shooting Guard",
         "warriors_heightMeters": "1.98",
-        "warriors_weightKilograms": "95",
+        "warriors_weightKilograms": "95"
         },
         {"warriors_firstName": "Kevon",
         "warriors_lastName": "Looney",
@@ -62,7 +62,7 @@
         "warriors_age":"24",
         "warriors_pos": "Power Forward",
         "warriors_heightMeters": "2.06",
-        "warriors_weightKilograms": "101",
+        "warriors_weightKilograms": "101"
         },
         {"warriors_firstName": "Mychal",
         "warriors_lastName": "Mulder",
@@ -70,7 +70,7 @@
         "warriors_age":"25",
         "warriors_pos": "Shooting Guard",
         "warriors_heightMeters": "1.9",
-        "warriors_weightKilograms": "83",
+        "warriors_weightKilograms": "83"
         },
         {"warriors_firstName": "Eric",
         "warriors_lastName": "Paschall",
@@ -78,7 +78,7 @@
         "warriors_age":"23",
         "warriors_pos": "Power Forward",
         "warriors_heightMeters": "1.98",
-        "warriors_weightKilograms": "116",
+        "warriors_weightKilograms": "116"
         },
         {
         "warriors_firstName": "Jordan",
@@ -87,7 +87,7 @@
         "warriors_age":"20",
         "warriors_pos": "Shooting Guard",
         "warriors_heightMeters": "1.93",
-        "warriors_weightKilograms": "88",
+        "warriors_weightKilograms": "88"
         },
         {
         "warriors_firstName": "Chasson",
@@ -96,7 +96,7 @@
         "warriors_age":"27",
         "warriors_pos": "Point Guard",
         "warriors_heightMeters": "1.88",
-        "warriors_weightKilograms": "84",
+        "warriors_weightKilograms": "84"
         },
         {
         "warriors_firstName": "Alen",
@@ -105,7 +105,7 @@
         "warriors_age":"19",
         "warriors_pos": "Power Forward",
         "warriors_heightMeters": "2,06",
-        "warriors_weightKilograms": "98",
+        "warriors_weightKilograms": "98"
         },
         {
         "warriors_firstName": "Klay",
@@ -114,7 +114,7 @@
         "warriors_age":"30",
         "warriors_pos": "Shooting Guard",
         "warriors_heightMeters": "1,98",
-        "warriors_weightKilograms": "98",
+        "warriors_weightKilograms": "98"
         },
         {
         "warriors_firstName": "Juan",
@@ -123,7 +123,7 @@
         "warriors_age":"27",
         "warriors_pos": "Small Forward",
         "warriors_heightMeters": "1,98",
-        "warriors_weightKilograms": "95",
+        "warriors_weightKilograms": "95"
         },
         {
         "warriors_firstName": "Andrew",
@@ -132,7 +132,7 @@
         "warriors_age":"25",
         "warriors_pos": "Small Forward",
         "warriors_heightMeters": "2.03",
-        "warriors_weightKilograms": "88",
+        "warriors_weightKilograms": "88"
         }  
     ]
 }

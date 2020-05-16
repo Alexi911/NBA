@@ -9,7 +9,7 @@
         "warriors_pos": "Point Guard",
         "warriors_heightMeters": "1.91",
         "warriors_weightKilograms": "86",
-        }
+        },
         {
         "warriors_firstName": "Draymond",
         "warriors_lastName": "Green",
@@ -18,7 +18,7 @@
         "warriors_pos": "Power Forward",
         "warriors_heightMeters": "1.98",
         "warriors_weightKilograms": "104",
-        }
+        },
         {       
         "warriors_firstName": "Dragan",
         "warriors_lastName": "Bender",
@@ -27,7 +27,7 @@
         "warriors_pos": "Small Forward",
         "warriors_heightMeters": "2.13",
         "warriors_weightKilograms": "113",
-        }
+        },
         {       
         "warriors_firstName": "Ky",
         "warriors_lastName": "Bowman",
@@ -36,7 +36,7 @@
         "warriors_pos": "Point Guard",
         "warriors_heightMeters": "1.85",
         "warriors_weightKilograms": "85",
-        }
+        },
         {
         "warriors_firstName": "Marquese",
         "warriors_lastName": "Chriss",
@@ -45,7 +45,7 @@
         "warriors_pos": "Center",
         "warriors_heightMeters": "2.06",
         "warriors_weightKilograms": "109",
-        }
+        },
         {
         "warriors_firstName": "Damion",
         "warriors_lastName": "Lee",
@@ -54,7 +54,7 @@
         "warriors_pos": "Shooting Guard",
         "warriors_heightMeters": "1.98",
         "warriors_weightKilograms": "95",
-        }
+        },
         {"warriors_firstName": "Kevon",
         "warriors_lastName": "Looney",
         "warriors_jersey": "5",
@@ -62,7 +62,7 @@
         "warriors_pos": "Power Forward",
         "warriors_heightMeters": "2.06",
         "warriors_weightKilograms": "101",
-        }
+        },
         {"warriors_firstName": "Mychal",
         "warriors_lastName": "Mulder",
         "warriors_jersey": "15",
@@ -70,7 +70,7 @@
         "warriors_pos": "Shooting Guard",
         "warriors_heightMeters": "1.9",
         "warriors_weightKilograms": "83",
-        }
+        },
         {"warriors_firstName": "Eric",
         "warriors_lastName": "Paschall",
         "warriors_jersey": "7",
@@ -78,15 +78,16 @@
         "warriors_pos": "Power Forward",
         "warriors_heightMeters": "1.98",
         "warriors_weightKilograms": "116",
-        }
-        {"warriors_firstName": "Jordan",
+        },
+        {
+        "warriors_firstName": "Jordan",
         "warriors_lastName": "Poole",
         "warriors_jersey": "3",
         "warriors_age":"20",
         "warriors_pos": "Shooting Guard",
         "warriors_heightMeters": "1.93",
         "warriors_weightKilograms": "88",
-        }
+        },
         {
         "warriors_firstName": "Chasson",
         "warriors_lastName": "Randle",
@@ -95,7 +96,7 @@
         "warriors_pos": "Point Guard",
         "warriors_heightMeters": "1.88",
         "warriors_weightKilograms": "84",
-        }
+        },
         {
         "warriors_firstName": "Alen",
         "warriors_lastName": "Smailagić",
@@ -104,7 +105,7 @@
         "warriors_pos": "Power Forward",
         "warriors_heightMeters": "2,06",
         "warriors_weightKilograms": "98",
-        }
+        },
         {
         "warriors_firstName": "Klay",
         "warriors_lastName": "Thompson",
@@ -113,7 +114,7 @@
         "warriors_pos": "Shooting Guard",
         "warriors_heightMeters": "1,98",
         "warriors_weightKilograms": "98",
-        }
+        },
         {
         "warriors_firstName": "Juan",
         "warriors_lastName": "Toscano-Anderson",
@@ -122,7 +123,7 @@
         "warriors_pos": "Small Forward",
         "warriors_heightMeters": "1,98",
         "warriors_weightKilograms": "95",
-        }
+        },
         {
         "warriors_firstName": "Andrew",
         "warriors_lastName": "Wiggins",
@@ -131,7 +132,7 @@
         "warriors_pos": "Small Forward",
         "warriors_heightMeters": "2.03",
         "warriors_weightKilograms": "88",
-        } 
+        }, 
         {
         "firstName": "Matthew",
         "lastName": "Dellavedova",
@@ -140,7 +141,7 @@
         "pos": "Point Guard",
         "heightMeters": "1.93",
         "weightKilograms": "91",
-        }
+        },
         {       
         "firstName": "Andre",
         "lastName": "Drummond",
@@ -149,7 +150,7 @@
         "pos": "Center",
         "heightMeters": "2.11",
         "weightKilograms": "127",
-        }
+        },
         {       
         "firstName": "Dante",
         "lastName": "Exum",
@@ -158,7 +159,7 @@
         "pos": "Point Guard",
         "heightMeters": "2.07",
         "weightKilograms": "86",
-        }
+        },
         {
         "firstName": "Darius",
         "lastName": "Garland",
@@ -167,7 +168,7 @@
         "pos": "Point Guard",
         "heightMeters": "1.85",
         "weightKilograms": "87",
-        }
+        },
         {
         "firstName": "Kevin",
         "lastName": "Love",
@@ -176,7 +177,7 @@
         "pos": "Power Forward",
         "heightMeters": "2.03",
         "weightKilograms": "114",
-        }
+        },
         {
         "firstName": "Sheldon",
         "lastName": "Mac",
@@ -185,7 +186,7 @@
         "pos": "Shooting Guard",
         "heightMeters": "1.96",
         "weightKilograms": "90",
-        }
+        },
         {"firstName": "Alfonzo",
         "lastName": "McKinnie",
         "jersey": "28",
@@ -193,7 +194,7 @@
         "pos": "Small Forward",
         "heightMeters": "2.03",
         "weightKilograms": "98",
-        }
+        },
         {"firstName": "Matt",
         "lastName": "Mooney",
         "jersey": "13",
@@ -201,7 +202,7 @@
         "pos": "Shooting Guard",
         "heightMeters": "1.88",
         "weightKilograms": "90",
-        }
+        },
         {"firstName": "Larry Jr.",
         "lastName": "Nance",
         "jersey": "22",
@@ -209,7 +210,7 @@
         "pos": "Power Forward",
         "heightMeters": "2.06",
         "weightKilograms": "111",
-        }
+        },
         {"firstName": "Cedi",
         "lastName": "Osman",
         "jersey": "16",
@@ -217,7 +218,7 @@
         "pos": "Small Forward",
         "heightMeters": "2.01",
         "weightKilograms": "98",
-        }
+        },
         {
         "firstName": "Sir'Dominic",
         "lastName": "Pointer",
@@ -226,7 +227,7 @@
         "pos": "Shooting Guard",
         "heightMeters": "1.98",
         "weightKilograms": "87",
-        }
+        },
         {
         "firstName": "Kevin Jr.",
         "lastName": "Porter",
@@ -235,7 +236,7 @@
         "pos": "Shooting Guard",
         "heightMeters": "1.93",
         "weightKilograms": "92",
-        }
+        },
         {
         "firstName": "Collin",
         "lastName": "Sexton",
@@ -244,7 +245,7 @@
         "pos": "Point Guard",
         "heightMeters": "1.85",
         "weightKilograms": "86",
-        }
+        },
         {
         "firstName": "Tristan",
         "lastName": "Thompson",
@@ -253,7 +254,7 @@
         "pos": "Center",
         "heightMeters": "2.06",
         "weightKilograms": "115",
-        }
+        },
         {
         "firstName": "Dean",
         "lastName": "Wade",
@@ -262,7 +263,7 @@
         "pos": "Power Forward",
         "heightMeters": "2.06",
         "weightKilograms": "103",
-        }   
+        }, 
         {
         "firstName": "Dylan",
         "lastName": "Windler",
@@ -271,7 +272,7 @@
         "pos": "Shooting Guard",
         "heightMeters": "1.98",
         "weightKilograms": "89",
-        }
+        },
         {
         "firstName": "Ante",
         "lastName": "Žižić",

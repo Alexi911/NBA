@@ -91,6 +91,16 @@
         "heightMeters": "1.98",
         "weightKilograms": "91"
         },
+      {
+        "warriors_firstName": "Max",
+        "warriors_lastName": "Strus",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+        "warriors_jersey": "28",
+        "warriors_age":"24",
+        "warriors_pos": "Shooting Guard",
+        "warriors_heightMeters": "1.96",
+        "warriors_weightKilograms": "98"
+        },
         {
         "firstName": "Lauri",
         "lastName": "Markkanen",

@@ -157,7 +157,7 @@
         {
         "lakers_firstName": "Lebron",
         "lakers_lastName": "James",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Lebron%20James.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Lebron%20James.png",
         "lakers_jersey": "23",
         "lakers_age":"35",
         "lakers_pos": "Ailier fort",
@@ -167,7 +167,7 @@
         {       
         "lakers_firstName": "Kóstas",
         "lakers_lastName": "Antetokoúnmpo",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Kóstas%20Antetokoúnmpo.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Kóstas%20Antetokoúnmpo.png",
         "lakers_jersey": "37",
         "lakers_age":"22",
         "lakers_pos": "PF",
@@ -177,7 +177,7 @@
         {       
         "lakers_firstName": "Avery",
         "lakers_lastName": "Bradley",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Avery%20Bradley.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Avery%20Bradley.png",
         "lakers_jersey": "11",
         "lakers_age":"29",
         "lakers_pos": "Point Guard",
@@ -187,7 +187,7 @@
         {
         "lakers_firstName": "Devontae",
         "lakers_lastName": "Cacok",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Devontae%20Cacok.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Devontae%20Cacok.png",
         "lakers_jersey": "12",
         "lakers_age":"23",
         "lakers_pos": "Center",
@@ -197,7 +197,7 @@
         {
         "lakers_firstName": "Kentavious",
         "lakers_lastName": "Caldwell-Pope",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Kentavious%20Caldwell-Pope.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Kentavious%20Caldwell-Pope.png",
         "lakers_jersey": "1",
         "lakers_age":"27",
         "lakers_pos": "Shooting Guard",
@@ -207,7 +207,7 @@
         {
         "lakers_firstName": "Alex",
         "lakers_lastName": "Caruso",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Alex%20Caruso.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Alex%20Caruso.png",
         "lakers_jersey": "4",
         "lakers_age":"26",
         "lakers_pos": "Shooting Guard",
@@ -217,7 +217,7 @@
         {
         "lakers_firstName": "Quinn",
         "lakers_lastName": "Cook",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Quinn%20Cook.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Quinn%20Cook.png",
         "lakers_jersey": "2",
         "lakers_age":"27",
         "lakers_pos": "Point Guard",
@@ -227,7 +227,7 @@
         {
         "lakers_firstName": "Anthony",
         "lakers_lastName": "Davis",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Anthony%20Davis.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Anthony%20Davis.png",
         "lakers_jersey": "3",
         "lakers_age":"27",
         "lakers_pos": "Power Forward",
@@ -237,7 +237,7 @@
         {
         "lakers_firstName": "Jared",
         "lakers_lastName": "Dudley",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Jared%20Dudley.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Jared%20Dudley.png",
         "lakers_jersey": "10",
         "lakers_age":"34",
         "lakers_pos": "Small Forward",
@@ -247,7 +247,7 @@
         {
         "lakers_firstName": "Danny",
         "lakers_lastName": "Green",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Danny%20Green.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Danny%20Green.png",
         "lakers_jersey": "14",
         "lakers_age":"32",
         "lakers_pos": "Shooting Guard",
@@ -257,7 +257,7 @@
         {
         "lakers_firstName": "Talen",
         "lakers_lastName": "Horton-Tucker",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Talen%20Horton-Tucker.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Talen%20Horton-Tucker.png",
         "lakers_jersey": "5",
         "lakers_age":"19",
         "lakers_pos": "Shooting Guard",
@@ -267,7 +267,7 @@
         {
         "lakers_firstName": "Dwight",
         "lakers_lastName": "Howard",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Dwight%20Howard.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Dwight%20Howard.png",
         "lakers_jersey": "39",
         "lakers_age":"34",
         "lakers_pos": "Center",
@@ -277,7 +277,7 @@
         {
         "lakers_firstName": "Kyle",
         "lakers_lastName": "Kuzma",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Kyle%20Kuzma.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Kyle%20Kuzma.png",
         "lakers_jersey": "0",
         "lakers_age":"24",
         "lakers_pos": "Power Forward",
@@ -287,7 +287,7 @@
         {
         "lakers_firstName": "JaVale",
         "lakers_lastName": "McGee",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/JaVale%20McGee.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/JaVale%20McGee.png",
         "lakers_jersey": "7",
         "lakers_age":"32",
         "lakers_pos": "Center",
@@ -297,7 +297,7 @@
         {
         "lakers_firstName": "Markieff",
         "lakers_lastName": "Morris",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Markieff%20Morris.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Markieff%20Morris.png",
         "lakers_jersey": "88",
         "lakers_age":"30",
         "lakers_pos": "Power Forward",
@@ -307,7 +307,7 @@
         {
         "lakers_firstName": "Rajon",
         "lakers_lastName": "Rondo",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Rajon%20Rondo.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Rajon%20Rondo.png",
         "lakers_jersey": "9",
         "lakers_age":"34",
         "lakers_pos": "Point Guard",
@@ -317,7 +317,7 @@
         {
         "lakers_firstName": "Dion",
         "lakers_lastName": "Waiters",
-        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Dion%20Waiters.png",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Dion%20Waiters.png",
         "lakers_jersey": "18",
         "lakers_age":"28",
         "lakers_pos": "Shooting Guard",
@@ -499,7 +499,7 @@
         {
         "bulls_firstName": "Ryan",
         "bulls_lastName": "Arcidiacono",
-        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Ryan%20Arcidiacono.png",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Ryan%20Arcidiacono.png",
         "bulls_jersey": "51",
         "bulls_age":"35",
         "bulls_pos": "Point Guard",
@@ -509,7 +509,7 @@
         {       
         "bulls_firstName": "Wendell Jr.",
         "bulls_lastName": "Carter",
-        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Wendell%20Carter.png",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Wendell%20Carter.png",
         "bulls_jersey": "34",
         "bulls_age":"21",
         "bulls_pos": "Center",
@@ -519,7 +519,7 @@
         {       
         "bulls_firstName": "Kris",
         "bulls_lastName": "Dunn",
-        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Kris%20Dunn.png",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Kris%20Dunn.png",
         "bulls_jersey": "32",
         "bulls_age":"26",
         "bulls_pos": "Point Guard",
@@ -529,7 +529,7 @@
         {
         "bulls_firstName": "Cristiano",
         "bulls_lastName": "Felício",
-        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cristiano%20Felício.png",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Cristiano%20Felício.png",
         "bulls_jersey": "6",
         "bulls_age":"27",
         "bulls_pos": "Power Forward",
@@ -539,7 +539,7 @@
         {
         "bulls_firstName": "Daniel",
         "bulls_lastName": "Gafford",
-        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Daniel%20Gafford.png",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Daniel%20Gafford.png",
         "bulls_jersey": "12",
         "bulls_age":"21",
         "bulls_pos": "Power Forward",
@@ -549,7 +549,7 @@
         {
         "bulls_firstName": "Shaquille",
         "bulls_lastName": "Harrison",
-        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Shaquille%20Harrison.png",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Shaquille%20Harrison.png",
         "bulls_jersey": "3",
         "bulls_age":"26",
         "bulls_pos": "Point Guard",
@@ -559,7 +559,7 @@
         {
         "bulls_firstName": "Chandler",
         "bulls_lastName": "Hutchison",
-        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Chandler%20Hutchison.png",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Chandler%20Hutchison.png",
         "bulls_jersey": "15",
         "bulls_age":"24",
         "bulls_pos": "Small Forward",
@@ -569,7 +569,7 @@
         {
         "bulls_firstName": "Luke",
         "bulls_lastName": "Kornet",
-        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Luke%20Kornet.png",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Luke%20Kornet.png",
         "bulls_jersey": "2",
         "bulls_age":"24",
         "bulls_pos": "Center",

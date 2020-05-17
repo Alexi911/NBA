@@ -1,0 +1,670 @@
+{
+  "warriors_players": 
+    [
+        {
+        "warriors_firstName": "Stephen",
+        "warriors_lastName": "Curry",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Stephen%20Curry.png",
+        "warriors_jersey": "30",
+        "warriors_age":"32",
+        "warriors_pos": "Point Guard",
+        "warriors_heightMeters": "1.91",
+        "warriors_weightKilograms": "86"
+        },
+        {
+        "warriors_firstName": "Draymond",
+        "warriors_lastName": "Green",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Draymond%20Green.png",
+        "warriors_jersey": "23",
+        "warriors_age":"30",
+        "warriors_pos": "Power Forward",
+        "warriors_heightMeters": "1.98",
+        "warriors_weightKilograms": "104"
+        },
+        {       
+        "warriors_firstName": "Dragan",
+        "warriors_lastName": "Bender",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Dragan%20Bender.png",
+        "warriors_jersey": "10",
+        "warriors_age":"22",
+        "warriors_pos": "Small Forward",
+        "warriors_heightMeters": "2.13",
+        "warriors_weightKilograms": "113"
+        },
+        {       
+        "warriors_firstName": "Ky",
+        "warriors_lastName": "Bowman",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Ky%20Bowman.png",
+        "warriors_jersey": "12",
+        "warriors_age":"22",
+        "warriors_pos": "Point Guard",
+        "warriors_heightMeters": "1.85",
+        "warriors_weightKilograms": "85"
+        },
+        {
+        "warriors_firstName": "Marquese",
+        "warriors_lastName": "Chriss",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Marquese%20Chriss.png",
+        "warriors_jersey": "32",
+        "warriors_age":"32",
+        "warriors_pos": "Center",
+        "warriors_heightMeters": "2.06",
+        "warriors_weightKilograms": "109",
+        },
+        {
+        "warriors_firstName": "Damion",
+        "warriors_lastName": "Lee",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Damion%20Lee.png",
+        "warriors_jersey": "1",
+        "warriors_age":"27",
+        "warriors_pos": "Shooting Guard",
+        "warriors_heightMeters": "1.98",
+        "warriors_weightKilograms": "95"
+        },
+        {
+        "warriors_firstName": "Kevon",
+        "warriors_lastName": "Looney",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Kevon%20Looney.png",
+        "warriors_jersey": "5",
+        "warriors_age":"24",
+        "warriors_pos": "Power Forward",
+        "warriors_heightMeters": "2.06",
+        "warriors_weightKilograms": "101"
+        },
+        {
+        "warriors_firstName": "Mychal",
+        "warriors_lastName": "Mulder",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Mychal%20Mulder.png",
+        "warriors_jersey": "15",
+        "warriors_age":"25",
+        "warriors_pos": "Shooting Guard",
+        "warriors_heightMeters": "1.9",
+        "warriors_weightKilograms": "83"
+        },
+        {
+        "warriors_firstName": "Eric",
+        "warriors_lastName": "Paschall",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Eric%20Paschall.png",
+        "warriors_jersey": "7",
+        "warriors_age":"23",
+        "warriors_pos": "Power Forward",
+        "warriors_heightMeters": "1.98",
+        "warriors_weightKilograms": "116"
+        },
+        {
+        "warriors_firstName": "Jordan",
+        "warriors_lastName": "Poole",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Jordan%20Poole.png",
+        "warriors_jersey": "3",
+        "warriors_age":"20",
+        "warriors_pos": "Shooting Guard",
+        "warriors_heightMeters": "1.93",
+        "warriors_weightKilograms": "88"
+        },
+        {
+        "warriors_firstName": "Chasson",
+        "warriors_lastName": "Randle",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Chasson%Randle.png",
+        "warriors_jersey": "9",
+        "warriors_age":"27",
+        "warriors_pos": "Point Guard",
+        "warriors_heightMeters": "1.88",
+        "warriors_weightKilograms": "84"
+        },
+        {
+        "warriors_firstName": "Alen",
+        "warriors_lastName": "Smailagić",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Alen%20Smailagić.png",
+        "warriors_jersey": "6",
+        "warriors_age":"19",
+        "warriors_pos": "Power Forward",
+        "warriors_heightMeters": "2,06",
+        "warriors_weightKilograms": "98"
+        },
+        {
+        "warriors_firstName": "Klay",
+        "warriors_lastName": "Thompson",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Klay%20Thompson.png",
+        "warriors_jersey": "11",
+        "warriors_age":"30",
+        "warriors_pos": "Shooting Guard",
+        "warriors_heightMeters": "1,98",
+        "warriors_weightKilograms": "98"
+        },
+        {
+        "warriors_firstName": "Juan",
+        "warriors_lastName": "Toscano-Anderson",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Juan%20Toscano-Anderson.png",
+        "warriors_jersey": "95",
+        "warriors_age":"27",
+        "warriors_pos": "Small Forward",
+        "warriors_heightMeters": "1,98",
+        "warriors_weightKilograms": "95"
+        },
+        {
+        "warriors_firstName": "Andrew",
+        "warriors_lastName": "Wiggins",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Andrew%20Wiggins.png",
+        "warriors_jersey": "22",
+        "warriors_age":"25",
+        "warriors_pos": "Small Forward",
+        "warriors_heightMeters": "2.03",
+        "warriors_weightKilograms": "88"
+        }    
+    ],
+"lakers_players": 
+    [
+        {
+        "lakers_firstName": "Lebron",
+        "lakers_lastName": "James",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Lebron%20James.png",
+        "lakers_jersey": "23",
+        "lakers_age":"35",
+        "lakers_pos": "Ailier fort",
+        "lakers_heightMeters": "2.06",
+        "lakers_weightKilograms": "113"
+        },
+        {       
+        "lakers_firstName": "Kóstas",
+        "lakers_lastName": "Antetokoúnmpo",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Kóstas%20Antetokoúnmpo.png",
+        "lakers_jersey": "37",
+        "lakers_age":"22",
+        "lakers_pos": "PF",
+        "lakers_heightMeters": "2.08",
+        "lakers_weightKilograms": "91"
+        },
+        {       
+        "lakers_firstName": "Avery",
+        "lakers_lastName": "Bradley",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Avery%20Bradley.png",
+        "lakers_jersey": "11",
+        "lakers_age":"29",
+        "lakers_pos": "Point Guard",
+        "lakers_heightMeters": "1.88",
+        "lakers_weightKilograms": "82",
+        },
+        {
+        "lakers_firstName": "Devontae"
+        "lakers_lastName": "Cacok",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Devontae%20Cacok.png",
+        "lakers_jersey": "12",
+        "lakers_age":"23",
+        "lakers_pos": "Center",
+        "lakers_heightMeters": "2.03",
+        "lakers_weightKilograms": "109"
+        },
+        {
+        "lakers_firstName": "Kentavious",
+        "lakers_lastName": "Caldwell-Pope",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Kentavious%20Caldwell-Pope.png",
+        "lakers_jersey": "1",
+        "lakers_age":"27",
+        "lakers_pos": "Shooting Guard",
+        "lakers_heightMeters": "1.96",
+        "lakers_weightKilograms": "93"
+        },
+        {
+        "lakers_firstName": "Alex",
+        "lakers_lastName": "Caruso",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Alex%20Caruso.png",
+        "lakers_jersey": "4",
+        "lakers_age":"26",
+        "lakers_pos": "Shooting Guard",
+        "lakers_heightMeters": "1.96",
+        "lakers_weightKilograms": "84"
+        },
+        {
+        "lakers_firstName": "Quinn",
+        "lakers_lastName": "Cook",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Quinn%20Cook.png",
+        "lakers_jersey": "2",
+        "lakers_age":"27",
+        "lakers_pos": "Point Guard",
+        "lakers_heightMeters": "1.85",
+        "lakers_weightKilograms": "82"
+        },
+        {
+        "lakers_firstName": "Anthony",
+        "lakers_lastName": "Davis",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Anthony%20Davis.png",
+        "lakers_jersey": "3",
+        "lakers_age":"27",
+        "lakers_pos": "Power Forward",
+        "lakers_heightMeters": "2.27",
+        "lakers_weightKilograms": "115"
+        },
+        {
+        "lakers_firstName": "Jared",
+        "lakers_lastName": "Dudley",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Jared%20Dudley.png",
+        "lakers_jersey": "10",
+        "lakers_age":"34",
+        "lakers_pos": "Small Forward",
+        "lakers_heightMeters": "2.01",
+        "lakers_weightKilograms": "108"
+        },
+        {
+        "lakers_firstName": "Danny",
+        "lakers_lastName": "Green",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Danny%20Green.png",
+        "lakers_jersey": "14",
+        "lakers_age":"32",
+        "lakers_pos": "Shooting Guard",
+        "lakers_heightMeters": "1.98",
+        "lakers_weightKilograms": "98"
+        },
+        {
+        "lakers_firstName": "Talen",
+        "lakers_lastName": "Horton-Tucker",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Talen%20Horton-Tucker.png",
+        "lakers_jersey": "5",
+        "lakers_age":"19",
+        "lakers_pos": "Shooting Guard",
+        "lakers_heightMeters": "1.93",
+        "lakers_weightKilograms": "106"
+        },
+        {
+        "lakers_firstName": "Dwight",
+        "lakers_lastName": "Howard",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Dwight%20Howard.png",
+        "lakers_jersey": "39",
+        "lakers_age":"34",
+        "lakers_pos": "Center",
+        "lakers_heightMeters": "2.11",
+        "lakers_weightKilograms": "120"
+        },
+        {
+        "lakers_firstName": "Kyle",
+        "lakers_lastName": "Kuzma",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Kyle%20Kuzma.png",
+        "lakers_jersey": "0",
+        "lakers_age":"24",
+        "lakers_pos": "Power Forward",
+        "lakers_heightMeters": "2.03",
+        "lakers_weightKilograms": "100"
+        },
+        {
+        "lakers_firstName": "JaVale",
+        "lakers_lastName": "McGee",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/JaVale%20McGee.png",
+        "lakers_jersey": "7",
+        "lakers_age":"32",
+        "lakers_pos": "Center",
+        "lakers_heightMeters": "2.13",
+        "lakers_weightKilograms": "122"
+        },
+        {
+        "lakers_firstName": "Markieff",
+        "lakers_lastName": "Morris",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Markieff%20Morris.png",
+        "lakers_jersey": "88",
+        "lakers_age":"30",
+        "lakers_pos": "Power Forward",
+        "lakers_heightMeters": "2.08",
+        "lakers_weightKilograms": "111"
+        },
+        {
+        "lakers_firstName": "Rajon",
+        "lakers_lastName": "Rondo",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Rajon%20Rondo.png",
+        "lakers_jersey": "9",
+        "lakers_age":"34",
+        "lakers_pos": "Point Guard",
+        "lakers_heightMeters": "1.85",
+        "lakers_weightKilograms": "84"
+        },
+        {
+        "lakers_firstName": "Dion",
+        "lakers_lastName": "Waiters",
+        "lakers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lakers%20Image/Dion%20Waiters.png",
+        "lakers_jersey": "18",
+        "lakers_age":"28",
+        "lakers_pos": "Shooting Guard",
+        "lakers_heightMeters": "1.93",
+        "lakers_weightKilograms": "98"
+        }     
+    ],
+"cavaliers_players": 
+    [
+        {
+        "cavaliers_firstName": "Matthew",
+        "cavaliers_lastName": "Dellavedova",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Matthew%20Dellavedova.png",
+        "cavaliers_jersey": "18",
+        "cavaliers_age":"29",
+        "cavaliers_pos": "Point Guard",
+        "cavaliers_heightMeters": "1.93",
+        "cavaliers_weightKilograms": "91"
+        },
+        {       
+        "cavaliers_firstName": "Andre",
+        "cavaliers_lastName": "Drummond",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Andre%20Drummond.png",
+        "cavaliers_jersey": "3",
+        "cavaliers_age":"26",
+        "cavaliers_pos": "Center",
+        "cavaliers_heightMeters": "2.11",
+        "cavaliers_weightKilograms": "127"
+        },
+        {      
+        "cavaliers_firstName": "Dante",
+        "cavaliers_lastName": "Exum",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Dante%20Exum.png",
+        "cavaliers_jersey": "1",
+        "cavaliers_age":"24",
+        "cavaliers_pos": "Point Guard",
+        "cavaliers_heightMeters": "2.07",
+        "cavaliers_weightKilograms": "86"
+        },
+        {
+        "cavaliers_firstName": "Darius",
+        "cavaliers_lastName": "Garland",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Darius%20Garland.png",
+        "cavaliers_jersey": "10",
+        "cavaliers_age":"20",
+        "cavaliers_pos": "Point Guard",
+        "cavaliers_heightMeters": "1.85",
+        "cavaliers_weightKilograms": "87"
+        },
+        {
+        "cavaliers_firstName": "Kevin",
+        "cavaliers_lastName": "Love",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Kevin%20Love.png",
+        "cavaliers_jersey": "0",
+        "cavaliers_age":"31",
+        "cavaliers_pos": "Power Forward",
+        "cavaliers_heightMeters": "2.03",
+        "cavaliers_weightKilograms": "114"
+        },
+        {
+        "cavaliers_firstName": "Sheldon",
+        "cavaliers_lastName": "Mac",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Sheldon%20Mac.png",
+        "cavaliers_jersey": "5",
+        "cavaliers_age":"27",
+        "cavaliers_pos": "Shooting Guard",
+        "cavaliers_heightMeters": "1.96",
+        "cavaliers_weightKilograms": "90"
+        },
+        {"cavaliers_firstName": "Alfonzo",
+        "cavaliers_lastName": "McKinnie",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Alfonzo%20McKinnie.png",
+        "cavaliers_jersey": "28",
+        "cavaliers_age":"27",
+        "cavaliers_pos": "Small Forward",
+        "cavaliers_heightMeters": "2.03",
+        "cavaliers_weightKilograms": "98"
+        },
+        {"cavaliers_firstName": "Matt",
+        "cavaliers_lastName": "Mooney",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Matt%20Mooney.png",
+        "cavaliers_jersey": "13",
+        "cavaliers_age":"23",
+        "cavaliers_pos": "Shooting Guard",
+        "cavaliers_heightMeters": "1.88",
+        "cavaliers_weightKilograms": "90"
+        },
+        {"cavaliers_firstName": "Larry Jr.",
+        "cavaliers_lastName": "Nance",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Larry%20Nance.png",
+        "cavaliers_jersey": "22",
+        "cavaliers_age":"27",
+        "cavaliers_pos": "Power Forward",
+        "cavaliers_heightMeters": "2.06",
+        "cavaliers_weightKilograms": "111"
+        },
+        {"cavaliers_firstName": "Cedi",
+        "cavaliers_lastName": "Osman",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Cedi%20Osman.png",
+        "cavaliers_jersey": "16",
+        "cavaliers_age":"25",
+        "cavaliers_pos": "Small Forward",
+        "cavaliers_heightMeters": "2.01",
+        "cavaliers_weightKilograms": "98"
+        },
+        {
+        "cavaliers_firstName": "Sir'Dominic",
+        "cavaliers_lastName": "Pointer",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Sir'Dominic%20Pointer.png",
+        "cavaliers_jersey": "15",
+        "cavaliers_age":"28",
+        "cavaliers_pos": "Shooting Guard",
+        "cavaliers_heightMeters": "1.98",
+        "cavaliers_weightKilograms": "87"
+        },
+        {
+        "cavaliers_firstName": "Kevin Jr.",
+        "cavaliers_lastName": "Porter",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Kevin%20Porter.png",
+        "cavaliers_jersey": "4",
+        "cavaliers_age":"20",
+        "cavaliers_pos": "Shooting Guard",
+        "cavaliers_heightMeters": "1.93",
+        "cavaliers_weightKilograms": "92"
+        },
+        {
+        "cavaliers_firstName": "Collin",
+        "cavaliers_lastName": "Sexton",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Collin%20Sexton.png",
+        "cavaliers_jersey": "2",
+        "cavaliers_age":"30",
+        "cavaliers_pos": "Point Guard",
+        "cavaliers_heightMeters": "1.85",
+        "cavaliers_weightKilograms": "86"
+        },
+        {
+        "cavaliers_firstName": "Tristan",
+        "cavaliers_lastName": "Thompson",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Tristan%20Thompson.png",
+        "cavaliers_jersey": "13",
+        "cavaliers_age":"29",
+        "cavaliers_pos": "Center",
+        "cavaliers_heightMeters": "2.06",
+        "cavaliers_weightKilograms": "115"
+        },
+        {
+        "cavaliers_firstName": "Dean",
+        "cavaliers_lastName": "Wade",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Dean%20Wade.png",
+        "cavaliers_jersey": "32",
+        "cavaliers_age":"23",
+        "cavaliers_pos": "Power Forward",
+        "cavaliers_heightMeters": "2.06",
+        "cavaliers_weightKilograms": "103"
+        },   
+        {
+        "cavaliers_firstName": "Dylan",
+        "cavaliers_lastName": "Windler",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Dylan%20Windler.png",
+        "cavaliers_jersey": "9",
+        "cavaliers_age":"23",
+        "cavaliers_pos": "Shooting Guard",
+        "cavaliers_heightMeters": "1.98",
+        "cavaliers_weightKilograms": "89"
+        },
+        {
+        "cavaliers_firstName": "Ante",
+        "cavaliers_lastName": "Žižić",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Cavaliers%20Image/Ante%20Žižić.png",
+        "cavaliers_jersey": "41",
+        "cavaliers_age":"23",
+        "cavaliers_pos": "Center",
+        "cavaliers_heightMeters": "2.08",
+        "cavaliers_weightKilograms": "121"
+        } 
+    ],
+"bulls_players": 
+    [
+        {
+        "bulls_firstName": "Ryan",
+        "bulls_lastName": "Arcidiacono",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Ryan%20Arcidiacono.png",
+        "bulls_jersey": "51",
+        "bulls_age":"35",
+        "bulls_pos": "Point Guard",
+        "bulls_heightMeters": "1.90",
+        "bulls_weightKilograms": "88"
+        },
+        {       
+        "bulls_firstName": "Wendell Jr.",
+        "bulls_lastName": "Carter",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Wendell%20Carter.png",
+        "bulls_jersey": "34",
+        "bulls_age":"21",
+        "bulls_pos": "Center",
+        "bulls_heightMeters": "2.06",
+        "bulls_weightKilograms": "122"
+        },
+        {       
+        "bulls_firstName": "Kris",
+        "bulls_lastName": "Dunn",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Kris%20Dunn.png",
+        "bulls_jersey": "32",
+        "bulls_age":"26",
+        "bulls_pos": "Point Guard",
+        "bulls_heightMeters": "1.93",
+        "bulls_weightKilograms": "93"
+        },
+        {
+        "bulls_firstName": "Cristiano",
+        "bulls_lastName": "Felício",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Cristiano%20Felício.png",
+        "bulls_jersey": "6",
+        "bulls_age":"27",
+        "bulls_pos": "Power Forward",
+        "bulls_heightMeters": "2.08",
+        "bulls_weightKilograms": "122"
+        },
+        {
+        "bulls_firstName": "Daniel",
+        "bulls_lastName": "Gafford",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Daniel%20Gafford.png",
+        "bulls_jersey": "12",
+        "bulls_age":"21",
+        "bulls_pos": "Power Forward",
+        "bulls_heightMeters": "2.08",
+        "bulls_weightKilograms": "106"
+        },
+        {
+        "bulls_firstName": "Shaquille",
+        "bulls_lastName": "Harrison",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Shaquille%20Harrison.png",
+        "bulls_jersey": "3",
+        "bulls_age":"26",
+        "bulls_pos": "Point Guard",
+        "bulls_heightMeters": "1.9",
+        "bulls_weightKilograms": "86"
+        },
+        {
+        "bulls_firstName": "Chandler",
+        "bulls_lastName": "Hutchison",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Chandler%20Hutchison.png",
+        "bulls_jersey": "15",
+        "bulls_age":"24",
+        "bulls_pos": "Small Forward",
+        "bulls_heightMeters": "2.01",
+        "bulls_weightKilograms": "95"
+        },
+        {
+        "bulls_firstName": "Luke",
+        "bulls_lastName": "Kornet",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Bulls%20Image/Luke%20Kornet.png",
+        "bulls_jersey": "2",
+        "bulls_age":"24",
+        "bulls_pos": "Center",
+        "bulls_heightMeters": "2.18",
+        "bulls_weightKilograms": "113"
+        },
+        {
+        "bulls_firstName": "Zach",
+        "bulls_lastName": "LaVine",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Zach%20LaVine.png",
+        "bulls_jersey": "8",
+        "bulls_age":"25",
+        "bulls_pos": "Point Guard",
+        "bulls_heightMeters": "1.98",
+        "bulls_weightKilograms": "91"
+        },
+        {
+        "bulls_firstName": "Lauri",
+        "bulls_lastName": "Markkanen",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Lauri%20Markkanen.png",
+        "bulls_jersey": "24",
+        "bulls_age":"22",
+        "bulls_pos": "Power Forward",
+        "bulls_heightMeters": "2.13",
+        "bulls_weightKilograms": "109"
+        },
+        {
+        "bulls_firstName": "Adam",
+        "bulls_lastName": "Mokoka",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Adam%20Mokoka.png",
+        "bulls_jersey": "20",
+        "bulls_age":"21",
+        "bulls_pos": "Shooting Guard",
+        "bulls_heightMeters": "1.96",
+        "bulls_weightKilograms": "95"
+        },
+        {
+        "bulls_firstName": "Otto Jr.",
+        "bulls_lastName": "Porter",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Otto%20Porter.png",
+        "bulls_jersey": "22",
+        "bulls_age":"26",
+        "bulls_pos": "Small Forward",
+        "bulls_heightMeters": "2.03",
+        "bulls_weightKilograms": "90"
+        },
+        {
+        "bulls_firstName": "Tomáš",
+        "bulls_lastName": "Satoranský",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Tomáš%20Satoranský.png",
+        "bulls_jersey": "31",
+        "bulls_age":"28",
+        "bulls_pos": "Shooting Guard",
+        "bulls_heightMeters": "2.01",
+        "bulls_weightKilograms": "95"
+        },
+        {
+        "bulls_firstName": "Max",
+        "bulls_lastName": "Strus",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Max%20Strus.png",
+        "bulls_jersey": "28",
+        "bulls_age":"24",
+        "bulls_pos": "Shooting Guard",
+        "bulls_heightMeters": "1.96",
+        "bulls_weightKilograms": "98"
+        },
+        {
+        "bulls_firstName": "Denzel",
+        "bulls_lastName": "Valentine",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Denzel%20Valentine.png",
+        "bulls_jersey": "45",
+        "bulls_age":"26",
+        "bulls_pos": "Shooting Guard",
+        "bulls_heightMeters": "1.98",
+        "bulls_weightKilograms": "95"
+        },
+        {
+        "bulls_firstName": "Coby",
+        "bulls_lastName": "White",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Coby%20White.png",
+        "bulls_jersey": "0",
+        "bulls_age":"20",
+        "bulls_pos": "Point Guard",
+        "bulls_heightMeters": "1.93",
+        "bulls_weightKilograms": "88"
+        },
+        {
+        "bulls_firstName": "Thaddeus",
+        "bulls_lastName": "Young",
+        "bulls_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Thaddeus%20Young.png",
+        "bulls_jersey": "21",
+        "bulls_age":"31",
+        "bulls_pos": "Power Forward",
+        "bulls_heightMeters": "2.03",
+        "bulls_weightKilograms": "100"
+        }     
+    ]
+}

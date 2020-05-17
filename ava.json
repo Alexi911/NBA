@@ -204,145 +204,165 @@
         "warriors_heightMeters": "1.91",
         "warriors_weightKilograms": "86"
         },
-        {
-        "warriors_firstName": "Draymond",
-        "warriors_lastName": "Green",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Draymond%20Green.png",
-        "warriors_jersey": "23",
-        "warriors_age":"30",
-        "warriors_pos": "Power Forward",
-        "warriors_heightMeters": "1.98",
-        "warriors_weightKilograms": "104"
-        },
-        {       
-        "warriors_firstName": "Dragan",
-        "warriors_lastName": "Bender",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Dragan%20Bender.png",
-        "warriors_jersey": "10",
-        "warriors_age":"22",
-        "warriors_pos": "Small Forward",
-        "warriors_heightMeters": "2.13",
-        "warriors_weightKilograms": "113"
-        },
-        {       
-        "warriors_firstName": "Ky",
-        "warriors_lastName": "Bowman",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Ky%20Bowman.png",
-        "warriors_jersey": "12",
-        "warriors_age":"22",
-        "warriors_pos": "Point Guard",
-        "warriors_heightMeters": "1.85",
-        "warriors_weightKilograms": "85"
-        },
-        {
-        "warriors_firstName": "Marquese",
-        "warriors_lastName": "Chriss",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Marquese%20Chriss.png",
-        "warriors_jersey": "32",
-        "warriors_age":"32",
-        "warriors_pos": "Center",
-        "warriors_heightMeters": "2.06",
-        "warriors_weightKilograms": "109",
-        },
-        {
-        "warriors_firstName": "Damion",
-        "warriors_lastName": "Lee",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Damion%20Lee.png",
-        "warriors_jersey": "1",
-        "warriors_age":"27",
-        "warriors_pos": "Shooting Guard",
-        "warriors_heightMeters": "1.98",
-        "warriors_weightKilograms": "95"
-        },
-        {
-        "warriors_firstName": "Kevon",
-        "warriors_lastName": "Looney",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Kevon%20Looney.png",
-        "warriors_jersey": "5",
-        "warriors_age":"24",
-        "warriors_pos": "Power Forward",
-        "warriors_heightMeters": "2.06",
-        "warriors_weightKilograms": "101"
-        },
-        {
-        "warriors_firstName": "Mychal",
-        "warriors_lastName": "Mulder",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Mychal%20Mulder.png",
-        "warriors_jersey": "15",
-        "warriors_age":"25",
-        "warriors_pos": "Shooting Guard",
-        "warriors_heightMeters": "1.9",
-        "warriors_weightKilograms": "83"
-        },
-        {
-        "warriors_firstName": "Eric",
-        "warriors_lastName": "Paschall",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Eric%20Paschall.png",
-        "warriors_jersey": "7",
-        "warriors_age":"23",
-        "warriors_pos": "Power Forward",
-        "warriors_heightMeters": "1.98",
-        "warriors_weightKilograms": "116"
-        },
-        {
-        "warriors_firstName": "Jordan",
-        "warriors_lastName": "Poole",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Jordan%20Poole.png",
-        "warriors_jersey": "3",
-        "warriors_age":"20",
-        "warriors_pos": "Shooting Guard",
-        "warriors_heightMeters": "1.93",
-        "warriors_weightKilograms": "88"
-        },
-        {
-        "warriors_firstName": "Chasson",
-        "warriors_lastName": "Randle",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Chasson%Randle.png",
-        "warriors_jersey": "9",
-        "warriors_age":"27",
-        "warriors_pos": "Point Guard",
-        "warriors_heightMeters": "1.88",
-        "warriors_weightKilograms": "84"
-        },
-        {
-        "warriors_firstName": "Alen",
-        "warriors_lastName": "Smailagić",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Alen%20Smailagić.png",
-        "warriors_jersey": "6",
-        "warriors_age":"19",
-        "warriors_pos": "Power Forward",
-        "warriors_heightMeters": "2,06",
-        "warriors_weightKilograms": "98"
-        },
-        {
-        "warriors_firstName": "Klay",
-        "warriors_lastName": "Thompson",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Klay%20Thompson.png",
-        "warriors_jersey": "11",
-        "warriors_age":"30",
-        "warriors_pos": "Shooting Guard",
-        "warriors_heightMeters": "1,98",
-        "warriors_weightKilograms": "98"
-        },
-        {
-        "warriors_firstName": "Juan",
-        "warriors_lastName": "Toscano-Anderson",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Juan%20Toscano-Anderson.png",
-        "warriors_jersey": "95",
-        "warriors_age":"27",
-        "warriors_pos": "Small Forward",
-        "warriors_heightMeters": "1,98",
-        "warriors_weightKilograms": "95"
-        },
-        {
-        "warriors_firstName": "Andrew",
-        "warriors_lastName": "Wiggins",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Warriors%20Image/Andrew%20Wiggins.png",
-        "warriors_jersey": "22",
-        "warriors_age":"25",
-        "warriors_pos": "Small Forward",
-        "warriors_heightMeters": "2.03",
-        "warriors_weightKilograms": "88"
-        }
+         {       
+         "firstName": "Wendell Jr.",
+         "lastName": "Carter",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "34",
+         "age":"21",
+         "pos": "Center",
+         "heightMeters": "2.06",
+         "weightKilograms": "122"
+         },
+         {       
+         "firstName": "Kris",
+         "lastName": "Dunn",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "32",
+         "age":"26",
+         "pos": "Point Guard",
+         "heightMeters": "1.93",
+         "weightKilograms": "93"
+         },
+         {
+         "firstName": "Cristiano",
+         "lastName": "Felício",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "6",
+         "age":"27",
+         "pos": "Power Forward",
+         "heightMeters": "2.08",
+         "weightKilograms": "122"
+         },
+         {
+         "firstName": "Daniel",
+         "lastName": "Gafford",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "12",
+         "age":"21",
+         "pos": "Power Forward",
+         "heightMeters": "2.08",
+         "weightKilograms": "106"
+         },
+         {
+         "firstName": "Shaquille",
+         "lastName": "Harrison",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "3",
+         "age":"26",
+         "pos": "Point Guard",
+         "heightMeters": "1.9",
+         "weightKilograms": "86"
+         },
+         {
+         "firstName": "Chandler",
+         "lastName": "Hutchison",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "15",
+         "age":"24",
+         "pos": "Small Forward",
+         "heightMeters": "2.01",
+         "weightKilograms": "95"
+         },
+         {
+         "firstName": "Luke",
+         "lastName": "Kornet",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "2",
+         "age":"24",
+         "pos": "Center",
+         "heightMeters": "2.18",
+         "weightKilograms": "113"
+         },
+         {
+         "firstName": "Zach",
+         "lastName": "LaVine",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "8",
+         "age":"25",
+         "pos": "Point Guard",
+         "heightMeters": "1.98",
+         "weightKilograms": "91"
+         },
+         {
+         "firstName": "Lauri",
+         "lastName": "Markkanen",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "24",
+         "age":"22",
+         "pos": "Power Forward",
+         "heightMeters": "2.13",
+         "weightKilograms": "109"
+         },
+         {
+         "firstName": "Adam",
+         "lastName": "Mokoka",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "20",
+         "age":"21",
+         "pos": "Shooting Guard",
+         "heightMeters": "1.96",
+         "weightKilograms": "95"
+         },
+         {
+         "firstName": "Otto Jr.",
+         "lastName": "Porter",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "22",
+         "age":"26",
+         "pos": "Small Forward",
+         "heightMeters": "2.03",
+         "weightKilograms": "90"
+         },
+         {
+         "firstName": "Tomáš",
+         "lastName": "Satoranský",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "31",
+         "age":"28",
+         "pos": "Shooting Guard",
+         "heightMeters": "2.01",
+         "weightKilograms": "95"
+         },
+         {
+         "firstName": "Max",
+         "lastName": "Strus",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "28",
+         "age":"24",
+         "pos": "Shooting Guard",
+         "heightMeters": "1.96",
+         "weightKilograms": "98"
+         },
+         {
+         "firstName": "Denzel",
+         "lastName": "Valentine",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "45",
+         "age":"26",
+         "pos": "Shooting Guard",
+         "heightMeters": "1.98",
+         "weightKilograms": "95"
+         },
+         {
+         "firstName": "Coby",
+         "lastName": "White",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "0",
+         "age":"20",
+         "pos": "Point Guard",
+         "heightMeters": "1.93",
+         "weightKilograms": "88"
+         },
+         {
+         "firstName": "Thaddeus",
+         "lastName": "Young",
+         "image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+         "jersey": "21",
+         "age":"31",
+         "pos": "Power Forward",
+         "heightMeters": "2.03",
+         "weightKilograms": "100"
+         }
      ]
  }

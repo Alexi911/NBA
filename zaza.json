@@ -1,15 +1,25 @@
 {
-  "warriors_players": 
+  "cavaliers_players": 
     [
         {
-        "warriors_firstName": "Max",
-        "warriors_lastName": "Strus",
-        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
-        "warriors_jersey": "28",
-        "warriors_age":"24",
-        "warriors_pos": "Shooting Guard",
-        "warriors_heightMeters": "1.96",
-        "warriors_weightKilograms": "98"
+        "cavaliers_firstName": "Max",
+        "cavaliers_lastName": "Strus",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+        "cavaliers_jersey": "28",
+        "cavaliers_age":"24",
+        "cavaliers_pos": "Shooting Guard",
+        "cavaliers_heightMeters": "1.96",
+        "cavaliers_weightKilograms": "98"
+        },
+        {
+        "cavaliers_firstName": "Ryan",
+        "cavaliers_lastName": "Arcidiacono",
+        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+        "cavaliers_jersey": "51",
+        "cavaliers_age":"35",
+        "cavaliers_pos": "Point Guard",
+        "cavaliers_heightMeters": "1.90",
+        "cavaliers_weightKilograms": "88"
         },
         {
         "firstName": "Ryan",
@@ -182,27 +192,17 @@
         "weightKilograms": "100"
         }
     ],
-  "cavaliers_players": 
+"warriors_players": 
     [
         {
-        "cavaliers_firstName": "Max",
-        "cavaliers_lastName": "Strus",
-        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
-        "cavaliers_jersey": "28",
-        "cavaliers_age":"24",
-        "cavaliers_pos": "Shooting Guard",
-        "cavaliers_heightMeters": "1.96",
-        "cavaliers_weightKilograms": "98"
-        },
-        {
-        "cavaliers_firstName": "Ryan",
-        "cavaliers_lastName": "Arcidiacono",
-        "cavaliers_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
-        "cavaliers_jersey": "51",
-        "cavaliers_age":"35",
-        "cavaliers_pos": "Point Guard",
-        "cavaliers_heightMeters": "1.90",
-        "cavaliers_weightKilograms": "88"
+        "warriors_firstName": "Max",
+        "warriors_lastName": "Strus",
+        "warriors_image": "https://raw.githubusercontent.com/Alexi911/NBA/master/Stephen%20Curry.png",
+        "warriors_jersey": "28",
+        "warriors_age":"24",
+        "warriors_pos": "Shooting Guard",
+        "warriors_heightMeters": "1.96",
+        "warriors_weightKilograms": "98"
         },
         {       
         "firstName": "Wendell Jr.",
